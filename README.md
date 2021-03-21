@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
+This project is an angular exercise from an online angular course (https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+The hosted website has a URL of https://ng-course-recipe-book-c8cc9.firebaseapp.com/auth
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
